@@ -14,7 +14,7 @@ import pandas as pd
 # from glob import glob
 
 # TODO: 1. current label is temporary, need to change according to real label
-#       2. Current, only split the data into train, need to handel train, test
+#       2. Current, only split the data into train, need to handle train, test
 
 LR_HR_RETIO = 4
 IMSIZE = 256
